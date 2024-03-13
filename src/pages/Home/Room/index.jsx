@@ -22,7 +22,7 @@ const RoomPage = () => {
             scenario:{
                 mode: ZegoUIKitPrebuilt.OneONoneCall,
             },
-            showScreenSharingButton:true,
+            showScreenSharingButton:false,
         });
     };
 
